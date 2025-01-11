@@ -1,4 +1,4 @@
--- open source because lol 
+
 getgenv().IS_LunarAPI_LOADED = false
 local oldr = request 
 getgenv().request = function(options)
